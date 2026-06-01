@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# ethernet-restore.command
+# restore-changes.command
 # ------------------------------------------------------------------
 # Removes ALL Bonjour blocks created by thunderbolt-priority-fix.command,
 # no matter how many addresses/peers were blocked. Restores normal
