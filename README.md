@@ -53,4 +53,4 @@ Enter the peer's IP address(es), pick a level, confirm, and supply your password
 - IPv6 coverage depends on the neighbour cache being populated at run time; otherwise some IPv6 addresses may be missed.
 - It loads a global pf config and enables pf. If you already rely on pf (VPN kill-switch, other firewall) this can conflict — test first.
 - If Thunderbolt isn't actually working, Level 2 can lock you out of the peer over LAN/Wi-Fi. Keep a way back in (the restore script, or manual cleanup below).
-- macOS-only and version-sensitive. No warranty — review the source and use at your own risk.
+- Version-sensitive (tested on Tahoe 26.5). No warranty — review the source and use at your own risk.
